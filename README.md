@@ -20,7 +20,7 @@ winston
 Clone this repository and run the command:
 
 ```
-npm intall
+npm install
 ```
 
 ### Executing program
